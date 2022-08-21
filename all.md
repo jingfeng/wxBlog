@@ -56,3 +56,19 @@
 * “增长黑客”失败的10个原因：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484044&idx=1&sn=e8bf5c86697081cc2e556befe10d341a&chksm=9bfcf848ac8b715ea6f6c7949ca7b1f47c2be97205c9730e8a23d4b6d334f0c6f09aa97ce8e4&token=456141648&lang=zh_CN#rd)
 * 用户增长的“杠铃策略”：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484049&idx=1&sn=65ed9cbf52eba02dcd874c2c1ebf4391&chksm=9bfcf855ac8b7143dbe91e50f3483ce4f6c191696dfc6ffe2b22c51f3be4e6dc5c00e83c1a30&token=456141648&lang=zh_CN#rd)
 * 创业产品前10个用户的获取方式：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484054&idx=1&sn=9a30a01555fcbdf4c65953e94c683455&chksm=9bfcf852ac8b71449e34521b220a7de58ee068b50b5b753ecef63d7f9485ee11156e67d46c34&token=456141648&lang=zh_CN#rd)
+* 一个小项目的复盘：不盈利的快速增长是没用的：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484060&idx=1&sn=464e81757dba7a6d92efb20289f58750&chksm=9bfcf858ac8b714eb2bad580ec093537b2a271efec11880f202e5c4650adf8a36cbc7f8d27d0&token=456141648&lang=zh_CN#rd)
+* 每天10分钟，你也可以写一本书：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484065&idx=1&sn=fe31f9cbfa9136554495f3c040672d31&chksm=9bfcf865ac8b7173f4bb8fe39631f84adfd3029354af8cf100705b2d01a173388f4c9d10a22b&token=456141648&lang=zh_CN#rd)
+* 一个“增长黑客”需要了解的7个原则：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484074&idx=1&sn=8f059884d8daf1749064eed4ee160cda&chksm=9bfcf86eac8b71787a7c3d8e96b90e976dcdeef92ff54740ac9855500e4eaf77169cca8a0b06&token=456141648&lang=zh_CN#rd)
+* First1000系列：Shopify如何获得前1000个用户：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484079&idx=1&sn=26533d882168a4de5750424a76fb35f7&chksm=9bfcf86bac8b717d55e0c73a39f6dc73b832b3cf5057334903b8fd5f4a0c8d8b5fcb8ecc0978&token=456141648&lang=zh_CN#rd)
+* First1000系列：Zumper，开发市场从提供工具开始：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484085&idx=1&sn=bd77a471981946bb1d4a081688f90c6e&chksm=9bfcf871ac8b7167672ac8093649eff90bb5723bd4494d54f386c7405ba71713c3c17c43e184&token=456141648&lang=zh_CN#rd)
+* First1000系列：Stripe，两兄弟的创业故事：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484091&idx=1&sn=60ebeaf92c1e2f4a84e4cfd2afc8a430&chksm=9bfcf87fac8b71694e7ee1195b685048714fed29fb538792c1e1a2a35461c380279df6cf07b3&token=456141648&lang=zh_CN#rd)
+* First1000系列：Toucan，不要试图从用户手里抢时间：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484098&idx=1&sn=85a05763f1ab58b6b71842a41959c878&chksm=9bfcf806ac8b71107f05af40258ee5aa0beedaf66b8638d08ff9fa68aa2e63d711dcd018283b&token=456141648&lang=zh_CN#rd)
+* 说说这一个多月的事：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484112&idx=1&sn=db046e1979d79f45005d3468cde58e63&chksm=9bfcf814ac8b71028d79b822236eb08036e946836d5fd01e4d0dcc8129a65702015dfdcba9e3&token=456141648&lang=zh_CN#rd)
+
+## 2022
+* 那些悲伤的xx科技公司：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484122&idx=1&sn=790f374317904046be599d8919bd19c9&chksm=9bfcf81eac8b71082b9f578d801aa4e584716522c4442d84472f1906a1984a5bf245e798d31e&token=456141648&lang=zh_CN#rd)
+* 区块链简介（适合无技术背景的人）：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484134&idx=1&sn=cad84b543a4cfbd1b0e92d12ddedf35b&chksm=9bfcf822ac8b7134ee9944fa329a0a7bcfa27d0925d8fef1353a835fe888f0e1bfbee3d0da78&token=456141648&lang=zh_CN#rd)
+* 你提的需求烂透了：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484145&idx=1&sn=9c3ab4fadfec2244569305d00d05d275&chksm=9bfcf835ac8b7123e38870257ef5368c3383ff5f0580917e71d401bcd127a6ecd3e03e89c2c8&token=456141648&lang=zh_CN#rd)
+* 《王慧文清华产品课》阅读记录：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484153&idx=1&sn=90d9cbe8fae56a366223ff3fa779ad99&chksm=9bfcf83dac8b712b96218b50920a292c8db9af89ff174827b881a944b983d2e78d90db9d92a2&token=456141648&lang=zh_CN#rd)
+
+
