@@ -70,5 +70,6 @@
 * 区块链简介（适合无技术背景的人）：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484134&idx=1&sn=cad84b543a4cfbd1b0e92d12ddedf35b&chksm=9bfcf822ac8b7134ee9944fa329a0a7bcfa27d0925d8fef1353a835fe888f0e1bfbee3d0da78&token=456141648&lang=zh_CN#rd)
 * 你提的需求烂透了：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484145&idx=1&sn=9c3ab4fadfec2244569305d00d05d275&chksm=9bfcf835ac8b7123e38870257ef5368c3383ff5f0580917e71d401bcd127a6ecd3e03e89c2c8&token=456141648&lang=zh_CN#rd)
 * 《王慧文清华产品课》阅读记录：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484153&idx=1&sn=90d9cbe8fae56a366223ff3fa779ad99&chksm=9bfcf83dac8b712b96218b50920a292c8db9af89ff174827b881a944b983d2e78d90db9d92a2&token=456141648&lang=zh_CN#rd)
+* 产品经理要学习“单位经济”：[点击阅读](https://mp.weixin.qq.com/s?__biz=MzAxNTg1NTUzMQ==&mid=2247484158&idx=1&sn=fdbfccc38c9ce1719967b15e0eda36ab&chksm=9bfcf83aac8b712c3af145a72ad9c18a0daf7cb5038613732a3264d8b68fc579b14d60089e0b&token=456141648&lang=zh_CN#rd)
 
 
